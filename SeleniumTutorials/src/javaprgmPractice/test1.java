@@ -1,7 +1,7 @@
 package javaprgmPractice;
 
 import java.util.Scanner;
-
+// test jenkin
 // addition & multiplication from scanner class with and without return 
 public class test1 {
 	
